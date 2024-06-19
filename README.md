@@ -68,6 +68,6 @@ type yes, and it will prompt you for permission or use --auto-approve in the com
 
 ➡️ [App Code] (https://github.com/sub1ime8/AppCode)
 
-➡️ [Terraform code] (https://github.com/sub1ime8/10weeksofcloudops-week4-tf)
+➡️ [Terraform code] (https://github.com/sub1ime8/10cloudops-tf)
 
 ➡️ [Manifest Repo] (https://github.com/sub1ime8/kube_manifest)
